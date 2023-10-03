@@ -48,6 +48,9 @@ TypeScript, Webpack <br>
 JavaScript, Webpack <br>
 [Repo](https://github.com/kostili-tec/music-quiz)
 
+ - [Online-Zoo](https://kostili-tec.github.io/online-zoo/) <br>
+JavaScript, Webpack, Pixel Perfect  <br>
+[Figma](https://www.figma.com/file/ypzT9idgAILaSRVRmDAJxn/online-zoo-3-weeks?type=design&node-id=0%3A1&mode=design&t=6wlGuYfMfXqRE7iG-1)
 ### Codewars: 
 
 ![](https://www.codewars.com/users/Kostili-tec/badges/large)
